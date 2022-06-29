@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.card-area {
+  padding: 50px;
+  background-color: rgb(164, 227, 207);
+  border-radius: 15px;
+}
+.count {
+  padding: 10px;
+  background-color: rgb(48, 62, 57);
+  border-radius: 20px;
+  color: rgb(164, 227, 207);
+  text-align: center;
+}
+.button {
+  border: none;
+  background-color: rgb(164, 227, 207);
+}
+.button:hover {
+  background-color: rgb(48, 62, 57);
+  border-radius: 25px;
+}
+h1 {
+  color: rgb(69, 17, 17);
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-weight: bold;
+}
